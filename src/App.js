@@ -1,4 +1,7 @@
 import React, { useState } from 'react';
+// import logo from './logo.svg';
+import './App.css';
+import './index.css';
 import Nav from './components/Nav';
 import About from './components/About';
 import Gallery from './components/Gallery';
